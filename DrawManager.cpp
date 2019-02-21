@@ -17,3 +17,4 @@ DrawManager::DrawManager(DataStorage &dataStorage, sf::RenderWindow &window) : _
 
     _dataStorage.getTextData().emplace_back("", _dataStorage.getFontData()[0], 14);
 }
+
