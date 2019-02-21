@@ -10,7 +10,7 @@ const uint WINDOW_WIDTH = 800;
 const uint WINDOW_HEIGHT = 600;
 const std::string WINDOW_NAME = "Coding IDE";
 
-const std::string FILE_NAME = "/home/adm1n/Studying/Programming/CLionProjects/Homework1/futex.c";
+const std::string FILE_NAME = "futex.c";
 
 
 int main(){
